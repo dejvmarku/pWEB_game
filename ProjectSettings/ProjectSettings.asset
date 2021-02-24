@@ -632,10 +632,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 247aa544-3d88-4cbf-9439-41d1b4e7131a
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: TC-Craft
+  organizationId: mathisfchx
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
